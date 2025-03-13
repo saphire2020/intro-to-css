@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(66, 0, 128);
+    color: rgba(255, 217, 0, 0.856);
+}
+
+
+header {
+    background-color: purple;
+    color: rgba(255, 217, 0, 0.856);
+    text-align: center;
+    padding: 20px 0px;
+
+    
+}
+
+h1 {
+    margin-bottom: 0x;
+}
+
+
+h2 {
+    color: rgba(255, 217, 0, 0.856);
+    margin-bottom: 10px;
+}
+nav  {
+    background-color:purple ;
+    padding: 20px 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin:0px 30px ;
+}
+
+nav ul li a {
+    color: rgba(255, 217, 0, 0.856);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+main {
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    
+    
+    border-radius: 5px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.feat ul {
+    margin-left: 40px;
+}
+
+.Us p {
+    margin-bottom: 10px;
+}
+
+.Tips p {
+    margin-bottom: 10px;
+}
+.Tips,.feat,.Us {
+    background: rgb(111, 9, 206);
+    padding: 20px;
+    
+}
+
+footer {
+    text-align:center;
+    background-color: rgb(66, 0, 128);
+    color: rgba(255, 217, 0, 0.856);
+    padding: 10px 10px;
+    margin-top: 20px 10px;
+}
+
+
+
+
